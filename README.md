@@ -64,7 +64,7 @@ make
 ```bash
 sudo apt-get update
 sudo apt-get install valgrind
-valgrind --leak-check=full ./run
+valgrind ./run
 ```
 
 ---
