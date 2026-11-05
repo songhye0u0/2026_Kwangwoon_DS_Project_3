@@ -28,7 +28,7 @@
 
 ```bash
 sudo apt-get install git
-git clone <저장소 주소>
+git clone https://github.com/songhye0u0/2026_Kwangwoon_DS_Project_3.git
 ```
 
 ---
@@ -49,7 +49,7 @@ sudo apt install g++
 - command.txt, graph_L.txt, graph_M.txt는 프로그램 실행 디렉토리에 있어야 합니다.
 
 ```bash
-cd <Makefile이 위치한 폴더>
+cd DS_Project3
 make
 ./run
 ```
